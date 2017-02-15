@@ -22,6 +22,7 @@ All functions together are:
 Just follow the steps below to get this script work on your linux machine or server.
 
 1st - create a folder, then copy the TimeTracker.sh into this folder and open a terminal inside this folder.
+
 2nd - make the TimeTracker.sh file executable:
 
 ```
